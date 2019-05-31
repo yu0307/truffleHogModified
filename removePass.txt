@@ -1,0 +1,4 @@
+regex:uid=([0-9a-zA-Z]*)==>
+regex:uid[0-9a-zA-Z=]*(?:.*)(\'.*?\')==>
+regex:uid=([0-9a-zA-Z]*)(?:.*)\'(.*?)\'==>
+testingpassword==>
